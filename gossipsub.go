@@ -27,7 +27,7 @@ const (
 	// https://github.com/libp2p/specs/blob/master/pubsub/gossipsub/gossipsub-v1.1.md
 	GossipSubID_v11 = protocol.ID("/meshsub/1.1.0")
 )
-asd
+
 // Defines the default gossipsub parameters.
 var (
 	GossipSubD                                = 6
